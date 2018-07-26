@@ -1,3 +1,6 @@
+<p> Just a simple and basic code for a Blog. You can login and register, create, update, delete any posts you like about any topic that you want. Added functionality of adding cover images coming soon</p>
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
